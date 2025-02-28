@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.andrescastilloplata.permissions_app",
+      "sha256_cert_fingerprints":
+      ["11:19:A5:FA:95:1A:B4:5C:3A:34:C3:42:ED:C4:C9:57:EC:EF:94:93:7F:56:4E:9C:DE:C3:8B:12:E0:94:4D:53"]
+    }
+  }]
